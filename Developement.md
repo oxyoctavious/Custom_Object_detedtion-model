@@ -75,7 +75,7 @@ compileSdk 34**
 
 ### Pending Issues
 * **app:processDebugResource**
-
+  ![Resource downloading](starter/screenshots/Error.png)
 * **packege error in XMlfile**
 
 
