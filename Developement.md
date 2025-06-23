@@ -72,6 +72,13 @@ compileSdk 34**
         ...
     }
 }**
+
+### Pending Issues
+* **app:processDebugResource**
+
+* **packege error in XMlfile**
+
+
 ### PROGRESS 
 * After fixing the error the error the project is being downloading the resources
   ![Resource downloading](starter/screenshots/Resource.png)
