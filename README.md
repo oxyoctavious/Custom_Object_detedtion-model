@@ -1,7 +1,6 @@
 
 
 
-## 📄 `README.md` for: **Custom Object Detection Android App**
 
 
 # 📱 Custom Object Detection Android App
@@ -72,7 +71,8 @@ starter/
 
 ## 🧪 Sample Output
 
-> *You can add screenshots or GIFs here later*
+* Her is the output of the code on the device
+   ![Resource downloading](starter/screenshots/Sample output)
 
 ---
 
